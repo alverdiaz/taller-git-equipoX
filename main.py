@@ -1,3 +1,6 @@
+#nombre de los integrantes
+#alver alerto diaz orejarena
+#Jorge Mario Camargo Pérez
 def suma(a, b):
     return a + b
 
